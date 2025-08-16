@@ -19,3 +19,4 @@ The configuration file is located at: `~/.var/app/org.vinegarhq.Sober/config/sob
 | `touch_mode`                        | "off" - touchscreen is disabled, default; "on" - touchscreen is enabled, experiences will use the mobile UI; "fake-off" - touchscreen is enabled, experiences will use the desktop UI | `"off"`   |
 | `use_libsecret`                     | use libsecret for storing the session cookie instead of plaintext, experimental                                      | `false`   |
 | `use_opengl`                        | use OpenGL instead of Vulkan as the graphics API, useful as a workaround for certain issues, like "OutOfMemory" reperated crashes | `false` |
+
